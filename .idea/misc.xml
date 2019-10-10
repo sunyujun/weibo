@@ -3,4 +3,17 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="F:/product">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://svn.zol.com.cn/repos/newproduct/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
